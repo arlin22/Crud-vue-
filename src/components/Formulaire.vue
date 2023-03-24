@@ -56,7 +56,8 @@ export default {
         },
         remove(index){
             this.Skills.splice(index,1);
-        }
+        },
+        
     }
 }
 </script>
